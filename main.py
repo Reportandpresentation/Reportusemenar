@@ -6,7 +6,7 @@ from io import BytesIO
 
 # --- 1. ڕێکخستنا API و پاسوۆردێ ئەدمینی ---
 try:
-    API_KEY = st.secrets["GEMINI_API_KEY"]
+    API_KEY = st.secrets["AIzaSyCImqsHi-DyswsFvbY2q32qROLZVaE1j-o"]
 except:
     API_KEY = "لێرە_کلیلێ_خۆ_دانە"
 
